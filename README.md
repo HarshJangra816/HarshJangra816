@@ -74,8 +74,10 @@
 
 ## 🏆 Achievements
 
+<!-- Add a Pull Shark chip here once GitHub's batch job awards it -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshJangra816&theme=onedark&no-frame=true&column=5&margin-w=10" alt="Achievement trophies" />
+  <a href="https://github.com/HarshJangra816?tab=achievements"><img src="https://img.shields.io/badge/%F0%9F%8E%B2%20YOLO-unlocked-b62324?logo=github&logoColor=white" alt="YOLO achievement" /></a>
+  <a href="https://github.com/HarshJangra816?tab=achievements"><img src="https://img.shields.io/badge/%E2%9A%A1%20Quickdraw-unlocked-d4a72c?logo=github&logoColor=black" alt="Quickdraw achievement" /></a>
 </p>
 
 ---
