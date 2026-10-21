@@ -33,7 +33,7 @@ src="https://skillicons.dev/icons?i=linux,sqlite,unity,wordpress,typescript,taur
 
 <p align="centre">
   <img
-src=https://skillicons.dev/icons?i=python,javascript,cpp,git,github,vscode,anaconda,openai" alt="Tech stack" height="80"/>
+src=https://skillicons.dev/icons?i=python,javascript,cpp,git,github,vscode,anaconda,openai" alt="Tech stack" height="160"/>
 </p>
 
 ---
