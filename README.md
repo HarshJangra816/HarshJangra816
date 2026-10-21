@@ -28,12 +28,12 @@
 
 <p align="center">
   <img
-src="https://skillicons.dev/icons?i=linux,sqlite,unity,wordpress,typescript,tauri,react" alt="Tech stack" perline="7"/>
+src="https://skillicons.dev/icons?i=linux,sqlite,unity,wordpress,typescript,tauri,react" alt="Tech stack"/>
 </p>
 
 <p align="center">
   <img
-src="https://skillicons.dev/icons?i=python,javascript,cpp,git,github,vscode,anaconda,openai" alt="Tech stack" height="160"/>
+src="https://skillicons.dev/icons?i=python,javascript,cpp,git,github,vscode,anaconda,openai" alt="Tech stack"/>
 </p>
 
 ---
