@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,git,github,vscode,anaconda,openai,postman,linux" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,git,github,vscode,anaconda,openai,linux" alt="Tech stack" />
 </p>
 
 ---
