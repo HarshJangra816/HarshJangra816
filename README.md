@@ -31,6 +31,11 @@
 src="https://skillicons.dev/icons?i=linux,sqlite,unity,wordpress,typescript,tauri,react" alt="Tech stack" />
 </p>
 
+<p align="centre">
+  <img
+src=https://skillicons.dev/icons?i=python,javascript,cpp,git,github,vscode,anaconda,openai" alt="Tech stack" />
+</p>
+
 ---
 
 ## 🚀 Featured Work
