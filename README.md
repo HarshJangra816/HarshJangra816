@@ -28,7 +28,7 @@
 
 <p align="center">
   <img
-src="https://skillicons.dev/icons?i=linux,sqlite,unity,wordpress,typescript,tauri,react" alt="Tech stack" />
+src="https://skillicons.dev/icons?i=python,javascript,cpp,git,github,vscode,anaconda,openai,linux,sqlite,unity,wordpress,typescript,tauri,react" alt="Tech stack" perline="7"/>
 </p>
 
 <p align="centre">
