@@ -31,7 +31,7 @@
 </p>
 <p align="center">
   <img
-src="https://skillicons.dev/icons?i=linux,sqlite,unity,wordpress,typescript" alt="Tech stack" />
+src="https://skillicons.dev/icons?i=linux,sqlite,unity,wordpress,typescript,tauri" alt="Tech stack" />
 </p>
 
 ---
