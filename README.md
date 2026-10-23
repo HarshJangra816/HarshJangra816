@@ -49,10 +49,10 @@ src="https://skillicons.dev/icons?i=python,javascript,cpp,git,github,vscode,anac
       <a href="https://github.com/HarshJangra816/LUXION_AI_AGENT"><b>Explore →</b></a>
     </td>
     <td width="33%" align="center">
-      <b>🕹️ Infinite Road Car Game</b><br/><br/>
-      Endless runner driving game that runs right in the browser — physics, scoring, and free-to-use assets.<br/><br/>
-      <sub>JavaScript · HTML5 Canvas</sub><br/><br/>
-      <a href="https://github.com/HarshJangra816/Infinite-Road-Car-Game"><b>Explore →</b></a>
+      <b>🕹️ Phalanx</b><br/><br/>
+      A defensive security tool that autonomously finds, proves, fixes, and verifies vulnerabilities in PHP code.<br/><br/>
+      <sub>Python · FastAPI + React </sub><br/><br/>
+      <a href="https://github.com/HarshJangra816/Phalanx"><b>Explore →</b></a>
     </td>
     <td width="33%" align="center">
       <b>🎮 Pac-Man in Python</b><br/><br/>
