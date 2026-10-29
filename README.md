@@ -84,6 +84,7 @@ src="https://skillicons.dev/icons?i=python,javascript,cpp,git,github,vscode,anac
 <p align="center">
   <a href="https://github.com/HarshJangra816?tab=achievements"><img src="https://img.shields.io/badge/%F0%9F%8E%B2%20YOLO-unlocked-b62324?logo=github&logoColor=white" alt="YOLO achievement" /></a>
   <a href="https://github.com/HarshJangra816?tab=achievements"><img src="https://img.shields.io/badge/%E2%9A%A1%20Quickdraw-unlocked-d4a72c?logo=github&logoColor=black" alt="Quickdraw achievement" /></a>
+  <a href="https://github.com/HarshJangra816?tab=achievements"><img src="https://img.shields.io/badge/%H7%1R%f5%20PullShark-unlocked-h3j03s?logo=github&logoColor=blue" alt="PullShark achievement" /></a>
 </p>
 
 ---
